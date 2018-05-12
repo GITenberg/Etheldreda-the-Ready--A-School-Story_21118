@@ -1,0 +1,38 @@
+_repo: Etheldreda-the-Ready--A-School-Story_21118
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Horrell, Charles
+    gutenberg_agent_id: '9746'
+    url: http://www.gutenberg.org/2009/agents/9746
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vaizey, George de Horne, Mrs.
+    aliases:
+    - Mansergh, Jessie
+    - Vaizey, Jessie Bell
+    - Vaizey, Mrs. George de Horne
+    birthdate: 1857
+    deathdate: 1917
+    gutenberg_agent_id: '9729'
+    url: http://www.gutenberg.org/2009/agents/9729
+    wikipedia: http://en.wikipedia.org/wiki/Mrs_George_de_Horne_Vaizey
+description: ''
+gutenberg_bookshelf: School Stories
+gutenberg_issued: '2007-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21118'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Etheldreda the Ready: A School Story'
+url: http://www.gutenberg.org/ebooks/21118
